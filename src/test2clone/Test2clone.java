@@ -16,7 +16,7 @@ public class Test2clone {
    */
   public static void main(String[] args) {
     // TODO code application logic here
-    System.out.println("clone");
+    System.out.println("clone_commit");
   }
   
 }
